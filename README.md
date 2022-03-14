@@ -1,2 +1,3 @@
 # DataScienceWQU
-Notebooks from the WQU Applied Data Science Course
+Projects from Data Science course
+1. Housing in Mexico
