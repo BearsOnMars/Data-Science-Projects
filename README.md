@@ -38,7 +38,7 @@
 **Key Big-Picture Objectives of this project are:**
 
 1. Getting data by `querying a MongoDB database`.
-2. Preparing time series data for analysis.
+2. Preparing timeseries data for analysis.
 3. Building an `autoregression` model.
 4. Improving a model by tuning its hyperparameters.
 
