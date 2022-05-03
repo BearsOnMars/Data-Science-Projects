@@ -19,7 +19,7 @@
 ## [2. Housing in Buenos Aires](https://github.com/BearsOnMars/Data-Science-Projects/tree/main/2.%20Housing%20in%20Buenos%20Aires)
 **This project involves creating a `Machine Learning Linear Regression` model that `predicts` apartment prices in Buenos Aires, Argentina -- with a focus on apartments that cost less than $400,000. The model examines how Apartment Size, Location and Neighbourhood influence prices**
 
-Key objectives of this project are:
+**Key objectives of this project are:**
 
 1. Creating a linear regression model using the `scikit-learn library`.
 2. Building a data pipeline for `imputing missing values` and `encoding categorical features`.
@@ -51,7 +51,8 @@ Key objectives of this project are:
 ## [4. Earthquake Damage in Nepal](https://github.com/BearsOnMars/Data-Science-Projects/tree/main/4.%20Earthquake%20Damage%20in%20Nepal)
 **This project involves building a `Classification model` to predict building damage from the Nepal 2015 Earthquake using data from Open Data Nepal.**
 
-**Key Objectives of Project:**
+**Key Objectives of this Project:**
+
 1. Getting data by `querying a SQL database`. Exploring SQL commands e.g.(`SELECT`, `LIMIT`, `COUNT`, `JOIN` etc.)
 2. Building a `logistic regression model` for `classification`
 3. Building a `decision tree model` for classification
@@ -65,7 +66,9 @@ Key objectives of this project are:
 ---------------------------------------------------------------------------------------------------------
 ## [5. Bankruptcy in Poland](https://github.com/BearsOnMars/Data-Science-Projects/tree/main/5.%20Bankruptcy%20in%20Poland)
 **In this project, data collected by a team of Polish economists studying bankruptcy is explored. The goal is to build a model that can predict whether a company will go bankrupt or not. More information on the dataset can be found on [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/Polish+companies+bankruptcy+data) webpage.**
-**KEY objectives of Project:**
+
+**Key objectives of this Project:**
+
 1. Navigating a file system from the Linux command line
 2. Loading and saving files using Python
 3. Addressing imbalanced data using resampling techniques
