@@ -32,7 +32,7 @@ Key objectives of this project are:
 * **RESULT**: Neighbourhood is much stronger influence in apartment prices than size. The posher the neighbourhood, the higher the apartment price.
 ---------------------------------------------------------------------------------------------------------
 
-## 3. Air Quality in Nairobi
+## [3. Air Quality in Nairobi](https://github.com/BearsOnMars/Data-Science-Projects/tree/main/3.%20Air%20Quality%20in%20Nairobi)
 **In this project, data is pulled from Africa's largest open data platforms openAfrica. Air quality data is analysed from Nairobi, Lagos, and Dar es Salaam; and a time-series model is built to predict PM2.5 readings throughout the day. More information on PM2.5 and its effects on respiratory system can be found on [Taskforce for Lung Health's webpage.](https://www.blf.org.uk/taskforce/data-tracker/air-quality/pm25)**
 
 **Key Big-Picture Objectives of this project are:**
