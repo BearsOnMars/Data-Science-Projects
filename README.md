@@ -1,6 +1,6 @@
 # Data Science Projects
 
-## 1. Housing in Mexico
+## [1. Housing in Mexico](https://github.com/BearsOnMars/Data-Science-Projects/tree/main/1.%20Housing%20in%20Mexico)
 **In this project, a dataset with 21,000 properties for sale in Mexico is analysed to determine whether sale prices are influenced more by property size or location.**
 
 **Key objectives of this project are:**
@@ -16,7 +16,7 @@
 * **RESULT**: It was discovered that house prices per sq.m (i.e. size) is a more realistic representation of housing prices than location
 ---------------------------------------------------------------------------------------------------------
 
-## 2. Housing in Buenos Aires
+## [2. Housing in Buenos Aires](https://github.com/BearsOnMars/Data-Science-Projects/tree/main/2.%20Housing%20in%20Buenos%20Aires)
 **This project involves creating a Machine Learning Linear Regression model that predicts apartment prices in Buenos Aires, Argentina -- with a focus on apartments that cost less than $400,000. The model examines how Apartment Size, Location and Neighbourhood influence prices**
 
 Key objectives of this project are:
