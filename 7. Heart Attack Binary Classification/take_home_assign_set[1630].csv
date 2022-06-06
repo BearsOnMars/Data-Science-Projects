@@ -1,0 +1,304 @@
+age,gender,chest_pain_type,rest_blood_pressure,cholesterol,fast_blood_sugar,rest_ecg,max_heart_rate,ex_ind_ang,prev_peak,slope,vessels_num,thal_result,output
+63,1,Non-anginal pain,145,233,Yes,Normal,150,No,2.3,0,0,1,1
+37,1,Atypical angina,130,250,No,ST-T wave normality,187,No,3.5,0,0,2,1
+41,0,Typical angina,130,204,No,Normal,172,No,1.4,2,0,2,1
+56,1,Typical angina,120,236,No,ST-T wave normality,178,No,0.8,2,0,2,1
+57,0,,120,354,No,ST-T wave normality,163,Yes,0.6,2,0,2,1
+57,1,,140,192,No,ST-T wave normality,148,No,0.4,1,0,1,1
+56,0,Typical angina,140,294,No,Normal,153,No,1.3,1,0,2,1
+44,1,Typical angina,120,263,No,ST-T wave normality,173,No,0,2,0,3,1
+52,1,Atypical angina,172,199,Yes,ST-T wave normality,162,No,0.5,2,0,3,1
+57,1,Atypical angina,150,168,No,ST-T wave normality,174,No,1.6,2,0,2,1
+54,1,,140,239,No,ST-T wave normality,160,No,1.2,2,0,2,1
+48,0,Atypical angina,130,275,No,ST-T wave normality,139,No,0.2,2,0,2,1
+49,1,Typical angina,130,266,No,ST-T wave normality,171,No,0.6,2,0,2,1
+64,1,Non-anginal pain,110,211,No,Normal,144,Yes,1.8,1,0,2,1
+58,0,Non-anginal pain,150,283,Yes,Normal,162,No,1,2,0,2,1
+50,0,Atypical angina,120,219,No,ST-T wave normality,158,No,1.6,1,0,2,1
+58,0,Atypical angina,120,340,No,ST-T wave normality,172,No,0,2,0,2,1
+66,0,Non-anginal pain,150,226,No,ST-T wave normality,114,No,2.6,0,0,2,1
+43,1,,150,247,No,ST-T wave normality,171,No,1.5,2,0,2,1
+69,0,Non-anginal pain,140,239,No,ST-T wave normality,151,No,1.8,2,2,2,1
+59,1,,135,234,No,ST-T wave normality,161,No,0.5,1,0,3,1
+44,1,Atypical angina,130,233,No,ST-T wave normality,179,Yes,0.4,2,0,2,1
+42,1,,140,226,No,ST-T wave normality,178,No,0,2,0,2,1
+61,1,Atypical angina,150,243,Yes,ST-T wave normality,137,Yes,1,1,0,2,1
+40,1,Non-anginal pain,140,199,No,ST-T wave normality,178,Yes,1.4,2,0,3,1
+71,0,Typical angina,160,302,No,ST-T wave normality,162,No,0.4,2,2,2,1
+59,1,Atypical angina,150,212,Yes,ST-T wave normality,157,No,1.6,2,0,2,1
+51,1,Atypical angina,110,175,No,ST-T wave normality,123,No,0.6,2,0,2,1
+65,0,Atypical angina,140,417,Yes,Normal,157,No,0.8,2,1,2,1
+53,1,Atypical angina,130,197,Yes,Normal,152,No,1.2,0,0,2,1
+41,0,Typical angina,105,198,No,ST-T wave normality,168,No,0,2,1,2,1
+65,1,,120,177,No,ST-T wave normality,140,No,0.4,2,0,3,1
+44,1,Typical angina,130,219,No,Normal,188,No,0,2,0,2,1
+54,1,Atypical angina,125,273,No,Normal,152,No,0.5,0,1,2,1
+51,1,Non-anginal pain,125,213,No,Normal,125,Yes,1.4,2,1,2,1
+46,0,Atypical angina,142,177,No,Normal,160,Yes,1.4,0,0,2,1
+54,0,Atypical angina,135,304,Yes,ST-T wave normality,170,No,0,2,0,2,1
+54,1,Atypical angina,150,232,No,Normal,165,No,1.6,2,0,3,1
+65,0,Atypical angina,155,269,No,ST-T wave normality,148,No,0.8,2,0,2,1
+65,0,Atypical angina,160,360,No,Normal,151,No,0.8,2,0,2,1
+51,0,Atypical angina,140,308,No,Normal,142,No,1.5,2,1,2,1
+48,1,Typical angina,130,245,No,Normal,180,No,0.2,1,0,2,1
+45,1,,104,208,No,Normal,148,Yes,3,1,0,2,1
+53,0,,130,264,No,Normal,143,No,0.4,1,0,2,1
+39,1,Atypical angina,140,321,No,Normal,182,No,0,2,0,2,1
+52,1,Typical angina,120,325,No,ST-T wave normality,172,No,0.2,2,0,2,1
+44,1,Atypical angina,140,235,No,Normal,180,No,0,2,0,2,1
+47,1,Atypical angina,138,257,No,Normal,156,No,0,2,0,2,1
+53,0,Atypical angina,128,216,No,Normal,115,No,0,2,0,0,1
+53,0,,138,234,No,Normal,160,No,0,2,0,2,1
+51,0,Atypical angina,130,256,No,Normal,149,No,0.5,2,0,2,1
+66,1,,120,302,No,Normal,151,No,0.4,1,0,2,1
+62,1,Atypical angina,130,231,No,ST-T wave normality,146,No,1.8,1,3,3,1
+44,0,Atypical angina,108,141,No,ST-T wave normality,175,No,0.6,1,0,2,1
+63,0,Atypical angina,135,252,No,Normal,172,No,0,2,0,2,1
+52,1,Typical angina,134,201,No,ST-T wave normality,158,No,0.8,2,1,2,1
+48,1,,122,222,No,Normal,186,No,0,2,0,2,1
+45,1,,115,260,No,Normal,185,No,0,2,0,2,1
+34,1,Non-anginal pain,118,182,No,Normal,174,No,0,2,0,2,1
+57,0,,128,303,No,Normal,159,No,0,2,1,2,1
+71,0,Atypical angina,110,265,Yes,Normal,130,No,0,2,1,2,1
+54,1,Typical angina,108,309,No,ST-T wave normality,156,No,0,2,0,3,1
+52,1,Non-anginal pain,118,186,No,Normal,190,No,0,1,0,1,1
+41,1,Typical angina,135,203,No,ST-T wave normality,132,No,0,1,0,1,1
+58,1,Atypical angina,140,211,Yes,Normal,165,No,0,2,0,2,1
+35,0,,138,183,No,ST-T wave normality,182,No,1.4,2,0,2,1
+51,1,Atypical angina,100,222,No,ST-T wave normality,143,Yes,1.2,1,0,2,1
+45,0,Typical angina,130,234,No,Normal,175,No,0.6,1,0,2,1
+44,1,Typical angina,120,220,No,ST-T wave normality,170,No,0,2,0,2,1
+62,0,,124,209,No,ST-T wave normality,163,No,0,2,0,2,1
+54,1,Atypical angina,120,258,No,Normal,147,No,0.4,1,0,3,1
+51,1,Atypical angina,94,227,No,ST-T wave normality,154,Yes,0,2,1,3,1
+29,1,Typical angina,130,204,No,Normal,202,No,0,2,0,2,1
+51,1,,140,261,No,Normal,186,Yes,0,2,0,2,1
+43,0,Atypical angina,122,213,No,ST-T wave normality,165,No,0.2,1,0,2,1
+55,0,Typical angina,135,250,No,Normal,161,No,1.4,1,0,2,1
+51,1,Atypical angina,125,245,Yes,Normal,166,No,2.4,1,0,2,1
+59,1,Typical angina,140,221,No,ST-T wave normality,164,Yes,0,2,0,2,1
+52,1,Typical angina,128,205,Yes,ST-T wave normality,184,No,0,2,0,2,1
+58,1,Atypical angina,105,240,No,Normal,154,Yes,0.6,1,0,3,1
+41,1,Atypical angina,112,250,No,ST-T wave normality,179,No,0,2,0,2,1
+45,1,Typical angina,128,308,No,Normal,170,No,0,2,0,2,1
+60,0,Atypical angina,102,318,No,ST-T wave normality,160,No,0,2,1,2,1
+52,1,Non-anginal pain,152,298,Yes,ST-T wave normality,178,No,1.2,1,0,3,1
+42,0,,102,265,No,Normal,122,No,0.6,1,0,2,1
+67,0,Atypical angina,115,564,No,Normal,160,No,1.6,1,0,3,1
+68,1,Atypical angina,118,277,No,ST-T wave normality,151,No,1,2,1,3,1
+46,1,Typical angina,101,197,Yes,ST-T wave normality,156,No,0,2,0,3,1
+54,0,Atypical angina,110,214,No,ST-T wave normality,158,No,1.6,1,0,2,1
+58,0,,100,248,No,Normal,122,No,1,1,0,2,1
+48,1,Atypical angina,124,255,Yes,ST-T wave normality,175,No,0,2,2,2,1
+57,1,,132,207,No,ST-T wave normality,168,Yes,0,2,0,3,1
+52,1,Atypical angina,138,223,No,ST-T wave normality,169,No,0,2,4,2,1
+54,0,Typical angina,132,288,Yes,Normal,159,Yes,0,2,1,2,1
+45,0,Typical angina,112,160,No,ST-T wave normality,138,No,0,1,0,2,1
+53,1,,142,226,No,Normal,111,Yes,0,2,0,3,1
+62,0,,140,394,No,Normal,157,No,1.2,1,0,2,1
+52,1,,108,233,Yes,ST-T wave normality,147,No,0.1,2,3,3,1
+43,1,Atypical angina,130,315,No,ST-T wave normality,162,No,1.9,2,1,2,1
+53,1,Atypical angina,130,246,Yes,Normal,173,No,0,2,3,2,1
+42,1,Non-anginal pain,148,244,No,Normal,178,No,0.8,2,2,2,1
+59,1,Non-anginal pain,178,270,No,Normal,145,No,4.2,0,0,3,1
+63,0,Typical angina,140,195,No,ST-T wave normality,179,No,0,2,2,2,1
+42,1,Atypical angina,120,240,Yes,ST-T wave normality,194,No,0.8,0,0,3,1
+50,1,Atypical angina,129,196,No,ST-T wave normality,163,No,0,2,0,2,1
+68,0,Atypical angina,120,211,No,Normal,115,No,1.5,1,0,2,1
+69,1,Non-anginal pain,160,234,Yes,Normal,131,No,0.1,1,1,2,1
+45,0,,138,236,No,Normal,152,Yes,0.2,1,0,2,1
+50,0,Typical angina,120,244,No,ST-T wave normality,162,No,1.1,2,0,2,1
+50,0,,110,254,No,Normal,159,No,0,2,0,2,1
+64,0,,180,325,No,ST-T wave normality,154,Yes,0,2,0,2,1
+57,1,Atypical angina,150,126,Yes,ST-T wave normality,173,No,0.2,2,1,3,1
+64,0,Atypical angina,140,313,No,ST-T wave normality,133,No,0.2,2,0,3,1
+43,1,,110,211,No,ST-T wave normality,161,No,0,2,0,3,1
+55,1,Typical angina,130,262,No,ST-T wave normality,155,No,0,2,0,2,1
+37,0,Atypical angina,120,215,No,ST-T wave normality,170,No,0,2,0,2,1
+41,1,Atypical angina,130,214,No,Normal,168,No,2,1,0,2,1
+56,1,Non-anginal pain,120,193,No,Normal,162,No,1.9,1,0,3,1
+46,0,Typical angina,105,204,No,ST-T wave normality,172,No,0,2,0,2,1
+46,0,,138,243,No,Normal,152,Yes,0,1,0,2,1
+64,0,,130,303,No,ST-T wave normality,122,No,2,1,2,2,1
+59,1,,138,271,No,Normal,182,No,0,2,0,2,1
+41,0,Atypical angina,112,268,No,Normal,172,Yes,0,2,0,2,1
+54,0,Atypical angina,108,267,No,Normal,167,No,0,2,0,2,1
+39,0,Atypical angina,94,199,No,ST-T wave normality,179,No,0,2,0,2,1
+34,0,Typical angina,118,210,No,ST-T wave normality,192,No,0.7,2,0,2,1
+47,1,,112,204,No,ST-T wave normality,143,No,0.1,2,0,2,1
+67,0,Atypical angina,152,277,No,ST-T wave normality,172,No,0,2,1,2,1
+52,0,Atypical angina,136,196,No,Normal,169,No,0.1,1,0,2,1
+74,0,Typical angina,120,269,No,Normal,121,Yes,0.2,2,1,2,1
+54,0,Atypical angina,160,201,No,ST-T wave normality,163,No,0,2,1,2,1
+49,0,Typical angina,134,271,No,ST-T wave normality,162,No,0,1,0,2,1
+42,1,Typical angina,120,295,No,ST-T wave normality,162,No,0,2,0,2,1
+41,1,Typical angina,110,235,No,ST-T wave normality,153,No,0,2,0,2,1
+41,0,Typical angina,126,306,No,ST-T wave normality,163,No,0,2,0,2,1
+49,0,,130,269,No,ST-T wave normality,163,No,0,2,0,2,1
+60,0,Atypical angina,120,178,Yes,ST-T wave normality,96,No,0,2,0,2,1
+62,1,Typical angina,128,208,Yes,Normal,140,No,0,2,0,2,1
+57,1,,110,201,No,ST-T wave normality,126,Yes,1.5,1,0,1,1
+64,1,,128,263,No,ST-T wave normality,105,Yes,0.2,1,1,3,1
+51,0,Atypical angina,120,295,No,Normal,157,No,0.6,2,0,2,1
+43,1,,115,303,No,ST-T wave normality,181,No,1.2,1,0,2,1
+42,0,Atypical angina,120,209,No,ST-T wave normality,173,No,0,1,0,2,1
+67,0,,106,223,No,ST-T wave normality,142,No,0.3,2,2,2,1
+76,0,Atypical angina,140,197,No,Left ventricular hypertrophy,116,No,1.1,1,0,2,1
+70,1,Typical angina,156,245,No,Normal,143,No,0,2,0,2,1
+44,0,Atypical angina,118,242,No,ST-T wave normality,149,No,0.3,1,1,2,1
+60,0,Non-anginal pain,150,240,No,ST-T wave normality,171,No,0.9,2,0,2,1
+44,1,Atypical angina,120,226,No,ST-T wave normality,169,No,0,2,0,2,1
+42,1,Atypical angina,130,180,No,ST-T wave normality,150,No,0,2,0,2,1
+66,1,,160,228,No,Normal,138,No,2.3,2,0,1,1
+71,0,,112,149,No,ST-T wave normality,125,No,1.6,1,0,2,1
+64,1,Non-anginal pain,170,227,No,Normal,155,No,0.6,1,0,3,1
+66,0,Atypical angina,146,278,No,Normal,152,No,0,1,1,2,1
+39,0,Atypical angina,138,220,No,ST-T wave normality,152,No,0,1,0,2,1
+58,0,,130,197,No,ST-T wave normality,131,No,0.6,1,0,2,1
+47,1,Atypical angina,130,253,No,ST-T wave normality,179,No,0,2,0,2,1
+35,1,Typical angina,122,192,No,ST-T wave normality,174,No,0,2,0,2,1
+58,1,Typical angina,125,220,No,ST-T wave normality,144,No,0.4,1,4,3,1
+56,1,Typical angina,130,221,No,Normal,163,No,0,2,0,3,1
+56,1,Typical angina,120,240,No,ST-T wave normality,169,No,0,0,0,2,1
+55,0,Typical angina,132,342,No,ST-T wave normality,166,No,1.2,2,0,2,1
+41,1,Typical angina,120,157,No,ST-T wave normality,182,No,0,2,0,2,1
+38,1,Atypical angina,138,175,No,ST-T wave normality,173,No,0,2,4,2,1
+38,1,Atypical angina,138,175,No,ST-T wave normality,173,No,0,2,4,2,1
+67,1,,160,286,No,Normal,108,Yes,1.5,1,3,2,0
+67,1,,120,229,No,Normal,129,Yes,2.6,1,2,3,0
+62,0,,140,268,No,Normal,160,No,3.6,0,2,2,0
+63,1,,130,254,No,Normal,147,No,1.4,1,1,3,0
+53,1,,140,203,Yes,Normal,155,Yes,3.1,0,0,3,0
+56,1,Atypical angina,130,256,Yes,Normal,142,Yes,0.6,1,1,1,0
+48,1,Typical angina,110,229,No,ST-T wave normality,168,No,1,0,0,3,0
+58,1,Typical angina,120,284,No,Normal,160,No,1.8,1,0,2,0
+58,1,Atypical angina,132,224,No,Normal,173,No,3.2,2,2,3,0
+60,1,,130,206,No,Normal,132,Yes,2.4,1,2,3,0
+40,1,,110,167,No,Normal,114,Yes,2,1,0,3,0
+60,1,,117,230,Yes,ST-T wave normality,160,Yes,1.4,2,2,3,0
+64,1,Atypical angina,140,335,No,ST-T wave normality,158,No,0,2,0,2,0
+43,1,,120,177,No,Normal,120,Yes,2.5,1,0,3,0
+57,1,,150,276,No,Normal,112,Yes,0.6,1,1,1,0
+55,1,,132,353,No,ST-T wave normality,132,Yes,1.2,1,1,3,0
+65,0,,150,225,No,Normal,114,No,1,1,3,3,0
+61,0,,130,330,No,Normal,169,No,0,2,0,2,0
+58,1,Atypical angina,112,230,No,Normal,165,No,2.5,1,1,3,0
+50,1,,150,243,No,Normal,128,No,2.6,1,0,3,0
+44,1,,112,290,No,Normal,153,No,0,2,1,2,0
+60,1,,130,253,No,ST-T wave normality,144,Yes,1.4,2,1,3,0
+54,1,,124,266,No,Normal,109,Yes,2.2,1,1,3,0
+50,1,Atypical angina,140,233,No,ST-T wave normality,163,No,0.6,1,1,3,0
+41,1,,110,172,No,Normal,158,No,0,2,0,3,0
+51,0,,130,305,No,ST-T wave normality,142,Yes,1.2,1,0,3,0
+58,1,,128,216,No,Normal,131,Yes,2.2,1,3,3,0
+54,1,,120,188,No,ST-T wave normality,113,No,1.4,1,1,3,0
+60,1,,145,282,No,Normal,142,Yes,2.8,1,2,3,0
+60,1,Atypical angina,140,185,No,Normal,155,No,3,1,0,2,0
+59,1,,170,326,No,Normal,140,Yes,3.4,0,0,3,0
+46,1,Atypical angina,150,231,No,ST-T wave normality,147,No,3.6,1,0,2,0
+67,1,,125,254,Yes,ST-T wave normality,163,No,0.2,1,2,3,0
+62,1,,120,267,No,ST-T wave normality,99,Yes,1.8,1,2,3,0
+65,1,,110,248,No,Normal,158,No,0.6,2,2,1,0
+44,1,,110,197,No,Normal,177,No,0,2,1,2,0
+60,1,,125,258,No,Normal,141,Yes,2.8,1,1,3,0
+58,1,,150,270,No,Normal,111,Yes,0.8,2,0,3,0
+68,1,Atypical angina,180,274,Yes,Normal,150,Yes,1.6,1,0,3,0
+62,0,,160,164,No,Normal,145,No,6.2,0,3,3,0
+52,1,,128,255,No,ST-T wave normality,161,Yes,0,2,1,3,0
+59,1,,110,239,No,Normal,142,Yes,1.2,1,1,3,0
+60,0,,150,258,No,Normal,157,No,2.6,1,2,3,0
+49,1,Atypical angina,120,188,No,ST-T wave normality,139,No,2,1,3,3,0
+59,1,,140,177,No,ST-T wave normality,162,Yes,0,2,1,3,0
+57,1,Atypical angina,128,229,No,Normal,150,No,0.4,1,1,3,0
+61,1,,120,260,No,ST-T wave normality,140,Yes,3.6,1,1,3,0
+39,1,,118,219,No,ST-T wave normality,140,No,1.2,1,0,3,0
+61,0,,145,307,No,Normal,146,Yes,1,1,0,3,0
+56,1,,125,249,Yes,Normal,144,Yes,1.2,1,1,2,0
+43,0,,132,341,Yes,Normal,136,Yes,3,1,0,3,0
+62,0,Atypical angina,130,263,No,ST-T wave normality,97,No,1.2,1,1,3,0
+63,1,,130,330,Yes,Normal,132,Yes,1.8,2,3,3,0
+65,1,,135,254,No,Normal,127,No,2.8,1,1,3,0
+48,1,,130,256,Yes,Normal,150,Yes,0,2,2,3,0
+63,0,,150,407,No,Normal,154,No,4,1,3,3,0
+55,1,,140,217,No,ST-T wave normality,111,Yes,5.6,0,0,3,0
+65,1,Non-anginal pain,138,282,Yes,Normal,174,No,1.4,1,1,2,0
+56,0,,200,288,Yes,Normal,133,Yes,4,0,2,3,0
+54,1,,110,239,No,ST-T wave normality,126,Yes,2.8,1,1,3,0
+70,1,,145,174,No,ST-T wave normality,125,Yes,2.6,0,0,3,0
+62,1,Typical angina,120,281,No,Normal,103,No,1.4,1,1,3,0
+35,1,,120,198,No,ST-T wave normality,130,Yes,1.6,1,0,3,0
+59,1,Non-anginal pain,170,288,No,Normal,159,No,0.2,1,0,3,0
+64,1,Atypical angina,125,309,No,ST-T wave normality,131,Yes,1.8,1,0,3,0
+47,1,Atypical angina,108,243,No,ST-T wave normality,152,No,0,2,0,2,0
+57,1,,165,289,Yes,Normal,124,No,1,1,3,3,0
+55,1,,160,289,No,Normal,145,Yes,0.8,1,1,3,0
+64,1,,120,246,No,Normal,96,Yes,2.2,0,1,2,0
+70,1,,130,322,No,Normal,109,No,2.4,1,3,2,0
+51,1,,140,299,No,ST-T wave normality,173,Yes,1.6,2,0,3,0
+58,1,,125,300,No,Normal,171,No,0,2,2,3,0
+60,1,,140,293,No,Normal,170,No,1.2,1,2,3,0
+77,1,,125,304,No,Normal,162,Yes,0,2,3,2,0
+35,1,,126,282,No,Normal,156,Yes,0,2,0,3,0
+70,1,Atypical angina,160,269,No,ST-T wave normality,112,Yes,2.9,1,1,3,0
+59,0,,174,249,No,ST-T wave normality,143,Yes,0,1,0,2,0
+64,1,,145,212,No,Normal,132,No,2,1,2,1,0
+57,1,,152,274,No,ST-T wave normality,88,Yes,1.2,1,1,3,0
+56,1,,132,184,No,Normal,105,Yes,2.1,1,1,1,0
+48,1,,124,274,No,Normal,166,No,0.5,1,0,3,0
+56,0,,134,409,No,Normal,150,Yes,1.9,1,2,3,0
+66,1,Typical angina,160,246,No,ST-T wave normality,120,Yes,0,1,3,1,0
+54,1,Typical angina,192,283,No,Normal,195,No,0,2,1,3,0
+69,1,Atypical angina,140,254,No,Normal,146,No,2,1,3,3,0
+51,1,,140,298,No,ST-T wave normality,122,Yes,4.2,1,3,3,0
+43,1,,132,247,Yes,Normal,143,Yes,0.1,1,4,3,0
+62,0,,138,294,Yes,ST-T wave normality,106,No,1.9,1,3,2,0
+67,1,,100,299,No,Normal,125,Yes,0.9,1,2,2,0
+59,1,Non-anginal pain,160,273,No,Normal,125,No,0,2,0,2,0
+45,1,,142,309,No,Normal,147,Yes,0,1,3,3,0
+58,1,,128,259,No,Normal,130,Yes,3,1,2,3,0
+50,1,,144,200,No,Normal,126,Yes,0.9,1,0,3,0
+62,0,,150,244,No,ST-T wave normality,154,Yes,1.4,1,0,2,0
+38,1,Non-anginal pain,120,231,No,ST-T wave normality,182,Yes,3.8,1,0,3,0
+66,0,,178,228,Yes,ST-T wave normality,165,Yes,1,1,2,3,0
+52,1,,112,230,No,ST-T wave normality,160,No,0,2,1,2,0
+53,1,,123,282,No,ST-T wave normality,95,Yes,2,1,2,3,0
+63,0,,108,269,No,ST-T wave normality,169,Yes,1.8,1,2,2,0
+54,1,,110,206,No,Normal,108,Yes,0,1,1,2,0
+66,1,,112,212,No,Normal,132,Yes,0.1,2,1,2,0
+55,0,,180,327,No,Left ventricular hypertrophy,117,Yes,3.4,1,0,2,0
+49,1,Atypical angina,118,149,No,Normal,126,No,0.8,2,3,2,0
+54,1,,122,286,No,Normal,116,Yes,3.2,1,2,2,0
+56,1,,130,283,Yes,Normal,103,Yes,1.6,0,0,3,0
+46,1,,120,249,No,Normal,144,No,0.8,2,0,3,0
+61,1,Non-anginal pain,134,234,No,ST-T wave normality,145,No,2.6,1,2,2,0
+67,1,,120,237,No,ST-T wave normality,71,No,1,1,0,2,0
+58,1,,100,234,No,ST-T wave normality,156,No,0.1,2,1,3,0
+47,1,,110,275,No,Normal,118,Yes,1,1,1,2,0
+52,1,,125,212,No,ST-T wave normality,168,No,1,2,2,3,0
+58,1,,146,218,No,ST-T wave normality,105,No,2,1,1,3,0
+57,1,Typical angina,124,261,No,ST-T wave normality,141,No,0.3,2,0,3,0
+58,0,Typical angina,136,319,Yes,Normal,152,No,0,2,2,2,0
+61,1,,138,166,No,Normal,125,Yes,3.6,1,1,2,0
+42,1,,136,315,No,ST-T wave normality,125,Yes,1.8,1,0,1,0
+52,1,,128,204,Yes,ST-T wave normality,156,Yes,1,1,0,0,0
+59,1,Atypical angina,126,218,Yes,ST-T wave normality,134,No,2.2,1,1,1,0
+40,1,,152,223,No,ST-T wave normality,181,No,0,2,0,3,0
+61,1,,140,207,No,Normal,138,Yes,1.9,2,1,3,0
+46,1,,140,311,No,ST-T wave normality,120,Yes,1.8,1,2,3,0
+59,1,Non-anginal pain,134,204,No,ST-T wave normality,162,No,0.8,2,2,2,0
+57,1,Typical angina,154,232,No,Normal,164,No,0,2,1,2,0
+57,1,,110,335,No,ST-T wave normality,143,Yes,3,1,1,3,0
+55,0,,128,205,No,Left ventricular hypertrophy,130,Yes,2,1,1,3,0
+61,1,,148,203,No,ST-T wave normality,161,No,0,2,1,3,0
+58,1,,114,318,No,Left ventricular hypertrophy,140,No,4.4,0,3,1,0
+58,0,,170,225,Yes,Normal,146,Yes,2.8,1,2,1,0
+67,1,Atypical angina,152,212,No,Normal,150,No,0.8,1,0,3,0
+44,1,,120,169,No,ST-T wave normality,144,Yes,2.8,0,0,1,0
+63,1,,140,187,No,Normal,144,Yes,4,2,2,3,0
+63,0,,124,197,No,ST-T wave normality,136,Yes,0,1,0,2,0
+59,1,,164,176,Yes,Normal,90,No,1,1,2,1,0
+57,0,,140,241,No,ST-T wave normality,123,Yes,0.2,1,0,3,0
+45,1,Non-anginal pain,110,264,No,ST-T wave normality,132,No,1.2,1,0,3,0
+68,1,,144,193,Yes,ST-T wave normality,141,No,3.4,1,2,3,0
+57,1,,130,131,No,ST-T wave normality,115,Yes,1.2,1,1,3,0
+57,0,Typical angina,130,236,No,Normal,174,No,0,1,1,2,0
