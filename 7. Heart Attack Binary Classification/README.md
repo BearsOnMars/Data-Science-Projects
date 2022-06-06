@@ -1,5 +1,5 @@
 ## [Heart Attack Binary Classification](https://github.com/BearsOnMars/Data-Science-Projects/tree/main/7.%20Heart%20Attack%20Binary%20Classification)
-**In this project, Medical Health data is explored. The goal is to build a Binary Classification model that can predict whether a patient would have a heart attack or not, and to identify the most important features which contribute to a heart attack.
+**In this project, Medical Health data is explored. The goal is to build a Binary Classification model that can predict whether a patient would have a heart attack or not, and to identify the most important features which contribute to a heart attack.**
 
 **Key objectives of this Project:**
 
